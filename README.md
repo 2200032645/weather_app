@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Application screenshot](./public/screenshot.png)
 
 <br/>
@@ -57,3 +58,6 @@ Check `packages.json` for details
 
 <br/>
 Thank You ☺
+=======
+# weather_app
+>>>>>>> 0ca5dc1104e05e413c2a22ef6bd68492615d10b9
